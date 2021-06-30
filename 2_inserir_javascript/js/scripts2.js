@@ -1,1 +1,1 @@
-console.log("este e o script do body")
+console.log("Este e o script do body")
